@@ -6,7 +6,7 @@ validate that a maze is fully connected with a flood fill. It is built entirely 
 primitive data structures, using raw pointers, dynamic arrays, and manual
 `new`/`delete`, with zero memory leaks confirmed by Valgrind.
 
-> **Context.** This repository is the maze *generation* module I wrote for a
+> This repository is the maze *generation* module I wrote for a
 > two-person university project. The original project also included a maze solver
 > and a 3D Minecraft renderer, which were my partner's and shared work respectively
 > and are not part of this repository. What you see here is the portion I designed
