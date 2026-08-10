@@ -1,7 +1,7 @@
 #ifndef MAZE_H
 #define MAZE_H
 
-// Maze — design and implement this class yourself.
+// Maze
 class Maze {
     // TODO
     public:
