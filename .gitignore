@@ -1,0 +1,10 @@
+.DS_Store
+
+# Build outputs
+bin/
+obj/
+out.txt
+err.txt
+tests/g3_seed1.txt
+tests/g3_seed1b.txt
+tests/g3_seed2.txt
