@@ -2,13 +2,11 @@
 
 ## Members
 
-| Name | Responsibilities |
-|---|---|---|---|
 | Henry Lewis | Maze Generation |
 
 ## Individual Contributions
 
-### Student 1 — Henry Lewis
+### Henry Lewis
 
 I implemented the maze generator (maze-gen) and the Maze class. The maze generation was completed using a recursive division algorithm; the grid starts as an open interior boxed by walls, and divide() recursively splits each region by drawing a wall and carving a single gap, choosing wall orientation by region shape (and at random when square) so that every recursive call produces a smaller perfect sub-maze. The Maze class manages its 2D grid with raw char** arrays and explicit new/delete, with a destructor that frees every row. 
 
